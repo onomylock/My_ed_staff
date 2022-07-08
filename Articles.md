@@ -3,9 +3,11 @@
 ## MarkDown
 
 - [Tuturials](https://gist.github.com/Jekins/2bf2d0638163f1294637)
+
 ___
 
 ## Git
+
 - [Init git](https://pingvinus.ru/git/1592#:~:text=%D0%9F%D0%B5%D1%80%D0%B5%D0%B9%D0%B4%D0%B8%D1%82%D0%B5%20%D0%BD%D0%B0%20https%3A%2F%2Fgithub,%D0%B8%20%D0%BD%D0%B0%D0%B6%D0%BC%D0%B8%D1%82%D0%B5%20%D0%BA%D0%BD%D0%BE%D0%BF%D0%BA%D1%83%20Create%20repository.&text=%D0%94%D0%B0%D0%BD%D0%BD%D0%B0%D1%8F%20%D0%BA%D0%BE%D0%BC%D0%B0%D0%BD%D0%B4%D0%B0%20%D0%B4%D0%BE%D0%B1%D0%B0%D0%B2%D0%B8%D1%82%20%D1%83%D0%B4%D0%B0%D0%BB%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9%20%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9,%D1%83%D0%BA%D0%B0%D0%B7%D1%8B%D0%B2%D0%B0%D0%B5%D1%82%20%D0%BD%D0%B0%20%D0%B2%D0%B0%D1%88%20Github%2D%D1%80%D0%B5%D0%BF%D0%BE%D0%B7%D0%B8%D1%82%D0%BE%D1%80%D0%B8%D0%B9.)
 
 ---
@@ -17,6 +19,7 @@ ___
 - [Полезная статья про указатели](https://pvs-studio.com/ru/blog/posts/cpp/0576/)
 
 ### Шпаргалка по командам в Linux
+
 - [File Command](https://sun4-16.userapi.com/impf/387Vbd_V0WmuS21Zgs8cUYpoWrxkp3zNGOTYNQ/T0RlCby6Svo.jpg?size=628x1080&quality=95&sign=e937d337d470b5cf1d55c7556913eb2e&type=album)
 - [Package installation](https://sun4-16.userapi.com/impf/R7KzKpFG4Udk69bi1kaclpfMG4pNDtj1jV03xg/jKqixDD-ZUw.jpg?size=873x1080&quality=95&sign=a4b37f9b471eed2e589927e23fa14395&type=album)
 - [SHH and System information](https://sun4-15.userapi.com/impf/8IJAD85RpgFygQomz-xxWQAUzx0G5_w_vX3g0A/hBmSAoQmh-s.jpg?size=609x1080&quality=95&sign=528521bd7650361bb78a7beafcc2517f&type=album)
@@ -31,9 +34,11 @@ ___
 ---
 
 ## WPF, C# and OOP
+
 - [DataGrid for WPF](https://habr.com/ru/post/270413/)
 - [MVVM simple tutoreal](https://vk.com/away.php?to=https%3A%2F%2Fmetanit.com%2Fsharp%2Fwpf%2F22.2.php&el=snippet)
 - [MVVM async](https://vk.com/away.php?to=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Farchive%2Fmsdn-magazine%2F2014%2Fapril%2Fasync-programming-patterns-for-asynchronous-mvvm-applications-commands&el=snippet)
 - [Многопоточность и асинхронные методы](https://vk.com/away.php?to=https%3A%2F%2Fmetanit.com%2Fsharp%2Ftutorial%2F13.7.php)
 - [Еще один MVVM](https://vk.com/away.php?to=https%3A%2F%2Fprofessorweb.ru%2Fmy%2FWPF%2Fdocuments_WPF%2Flevel36%2F36_5.php&el=snippet)
 - [Стать с хабр про асинхронные методы](https://vk.com/away.php?to=https%3A%2F%2Fhabr.com%2Fru%2Fcompany%2Fotus%2Fblog%2F550812%2F&cc_key=)
+- [Proxy pattern](https://metanit.com/sharp/patterns/4.5.php)
