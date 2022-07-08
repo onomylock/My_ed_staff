@@ -12,9 +12,10 @@ ___
 
 ## Linux and C
 
-- [GCC documentatio](https://vk.com/away.php?to=https%3A%2F%2Fgcc.gnu.org%2Fonlinedocs%2Fgccint%2F&cc_key=)
+- [GCC documentation](https://vk.com/away.php?to=https%3A%2F%2Fgcc.gnu.org%2Fonlinedocs%2Fgccint%2F&cc_key=)
 - [GCC статья для работы с компилятором](https://habr.com/ru/post/490850/)
 - [Полезная статья про указатели](https://pvs-studio.com/ru/blog/posts/cpp/0576/)
+- [Интересный сайтик...](http://ermak.cs.nstu.ru/cprog/html/)
 
 ### Шпаргалка по командам в Linux
 - [File Command](https://sun4-16.userapi.com/impf/387Vbd_V0WmuS21Zgs8cUYpoWrxkp3zNGOTYNQ/T0RlCby6Svo.jpg?size=628x1080&quality=95&sign=e937d337d470b5cf1d55c7556913eb2e&type=album)
