@@ -42,3 +42,4 @@ ___
 - [Еще один MVVM](https://vk.com/away.php?to=https%3A%2F%2Fprofessorweb.ru%2Fmy%2FWPF%2Fdocuments_WPF%2Flevel36%2F36_5.php&el=snippet)
 - [Стать с хабр про асинхронные методы](https://vk.com/away.php?to=https%3A%2F%2Fhabr.com%2Fru%2Fcompany%2Fotus%2Fblog%2F550812%2F&cc_key=)
 - [Proxy pattern](https://metanit.com/sharp/patterns/4.5.php)
+- [крутой дизайн для wpf](https://www.youtube.com/watch?v=YQ1EJJZBHyE)
