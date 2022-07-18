@@ -19,6 +19,7 @@ ___
 - [Полезная статья про указатели](https://pvs-studio.com/ru/blog/posts/cpp/0576/)
 - [Интересный сайтик...](http://ermak.cs.nstu.ru/cprog/html/)
 - [Статья про указатели](https://prog-cpp.ru/c-pointers/)
+
 ### Шпаргалка по командам в Linux
 
 - [File Command](https://sun4-16.userapi.com/impf/387Vbd_V0WmuS21Zgs8cUYpoWrxkp3zNGOTYNQ/T0RlCby6Svo.jpg?size=628x1080&quality=95&sign=e937d337d470b5cf1d55c7556913eb2e&type=album)
@@ -44,3 +45,4 @@ ___
 - [Стать с хабр про асинхронные методы](https://vk.com/away.php?to=https%3A%2F%2Fhabr.com%2Fru%2Fcompany%2Fotus%2Fblog%2F550812%2F&cc_key=)
 - [Proxy pattern](https://metanit.com/sharp/patterns/4.5.php)
 - [крутой дизайн для wpf](https://www.youtube.com/watch?v=YQ1EJJZBHyE)
+- [Статья по WPF и командам](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/patterns-wpf-apps-with-the-model-view-viewmodel-design-pattern)
