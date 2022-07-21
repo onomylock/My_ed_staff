@@ -46,3 +46,4 @@ ___
 - [Proxy pattern](https://metanit.com/sharp/patterns/4.5.php)
 - [крутой дизайн для wpf](https://www.youtube.com/watch?v=YQ1EJJZBHyE)
 - [Статья по WPF и командам](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/patterns-wpf-apps-with-the-model-view-viewmodel-design-pattern)
+- [Хорошоий разбор интерфейса ICommand с примерами](https://habr.com/ru/post/196960/)
