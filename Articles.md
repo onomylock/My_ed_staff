@@ -19,6 +19,7 @@ ___
 - [Полезная статья про указатели](https://pvs-studio.com/ru/blog/posts/cpp/0576/)
 - [Интересный сайтик...](http://ermak.cs.nstu.ru/cprog/html/)
 - [Статья про указатели](https://prog-cpp.ru/c-pointers/)
+- [Статья про vim](https://habr.com/ru/post/221267/)
 
 ### Шпаргалка по командам в Linux
 
