@@ -21,6 +21,7 @@ ___
 - [Статья про указатели](https://prog-cpp.ru/c-pointers/)
 - [Статья про vim](https://habr.com/ru/post/221267/)
 - [Статейка на хабре про кадры функций](https://habr.com/ru/company/smart_soft/blog/234239/)
+- [Видеоуроки Eltex](https://www.youtube.com/playlist?list=PLEEyllzHN_sLqZnmaC7WUP6VWPZDkiOap)
 
 ### Шпаргалка по командам в Linux
 
