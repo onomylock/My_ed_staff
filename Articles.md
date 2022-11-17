@@ -23,6 +23,7 @@ ___
 - [Статейка на хабре про кадры функций](https://habr.com/ru/company/smart_soft/blog/234239/)
 - [Видеоуроки Eltex](https://www.youtube.com/playlist?list=PLEEyllzHN_sLqZnmaC7WUP6VWPZDkiOap)
 - [Настраиваем VIM](https://habr.com/ru/post/468265/)
+- [Указатели и ссылки](https://habr.com/ru/post/251091/)
 
 ### Шпаргалка по командам в Linux
 
