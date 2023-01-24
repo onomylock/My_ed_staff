@@ -53,3 +53,5 @@ ___
 - [Статья по WPF и командам](https://docs.microsoft.com/en-us/archive/msdn-magazine/2009/february/patterns-wpf-apps-with-the-model-view-viewmodel-design-pattern)
 - [Хорошоий разбор интерфейса ICommand с примерами](https://habr.com/ru/post/196960/)
 - [Крутой дядька рассказывает как писать асинхронные приложения](https://stephencleary.com/publications/)
+- [Флаги и енам](https://agladky.ru/blog/flags-enums-in-csharp/)
+- [групповые делегаты](https://professorweb.ru/my/csharp/charp_theory/level10/10_2.php)
