@@ -24,6 +24,7 @@ ___
 - [Видеоуроки Eltex](https://www.youtube.com/playlist?list=PLEEyllzHN_sLqZnmaC7WUP6VWPZDkiOap)
 - [Настраиваем VIM](https://habr.com/ru/post/468265/)
 - [Указатели и ссылки](https://habr.com/ru/post/251091/)
+- [GDB commands](https://visualgdb.com/gdbreference/commands/)
 
 ### Шпаргалка по командам в Linux
 
