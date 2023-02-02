@@ -27,7 +27,7 @@ ___
 - [GDB commands](https://visualgdb.com/gdbreference/commands/)
 
 ### OpenGL for little and stupid
--[OpenGL hello triandle](https://learnopengl.com/Getting-started/Hello-Triangle)
+- [OpenGL hello triandle](https://learnopengl.com/Getting-started/Hello-Triangle)
 
 ### Шпаргалка по командам в Linux
 
