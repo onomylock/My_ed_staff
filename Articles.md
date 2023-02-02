@@ -26,6 +26,9 @@ ___
 - [Указатели и ссылки](https://habr.com/ru/post/251091/)
 - [GDB commands](https://visualgdb.com/gdbreference/commands/)
 
+### OpenGL for little and stupid
+-[OpenGL hello triandle](https://learnopengl.com/Getting-started/Hello-Triangle)
+
 ### Шпаргалка по командам в Linux
 
 - [File Command](https://sun4-16.userapi.com/impf/387Vbd_V0WmuS21Zgs8cUYpoWrxkp3zNGOTYNQ/T0RlCby6Svo.jpg?size=628x1080&quality=95&sign=e937d337d470b5cf1d55c7556913eb2e&type=album)
