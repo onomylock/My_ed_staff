@@ -30,6 +30,8 @@ ___
 - [OpenGL hello triandle](https://learnopengl.com/Getting-started/Hello-Triangle)
 - [GTK and OpenGL полезная статья](https://habr.com/ru/post/559004/)
 - [GTK+OpenGL Example](https://stackoverflow.com/questions/69201843/how-do-you-do-3d-rendering-in-gtk-using-opengl)
+- [GTK Hello World](https://habr.com/ru/post/135809/)
+- [GTK and Glade](https://habr.com/ru/post/136922/)
 
 ### Шпаргалка по командам в Linux
 
