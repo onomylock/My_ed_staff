@@ -32,6 +32,7 @@ ___
 - [GTK+OpenGL Example](https://stackoverflow.com/questions/69201843/how-do-you-do-3d-rendering-in-gtk-using-opengl)
 - [GTK Hello World](https://habr.com/ru/post/135809/)
 - [GTK and Glade](https://habr.com/ru/post/136922/)
+- [GTK example](https://habr.com/ru/post/146799/)
 
 ### Шпаргалка по командам в Linux
 
