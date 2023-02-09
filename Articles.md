@@ -34,6 +34,7 @@ ___
 - [GTK Hello World](https://habr.com/ru/post/135809/)
 - [GTK and Glade](https://habr.com/ru/post/136922/)
 - [GTK example](https://habr.com/ru/post/146799/)
+- [gtkmm documentation](http://rus-linux.net/MyLDP/BOOKS/gtkmm/03-basics.html)
 
 ### Шпаргалка по командам в Linux
 
