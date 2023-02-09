@@ -25,6 +25,7 @@ ___
 - [Настраиваем VIM](https://habr.com/ru/post/468265/)
 - [Указатели и ссылки](https://habr.com/ru/post/251091/)
 - [GDB commands](https://visualgdb.com/gdbreference/commands/)
+- [Полезная книжка по Linux](https://coollib.com/b/138094/read)
 
 ### OpenGL for little and stupid
 - [OpenGL hello triandle](https://learnopengl.com/Getting-started/Hello-Triangle)
