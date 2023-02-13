@@ -35,6 +35,7 @@ ___
 - [GTK and Glade](https://habr.com/ru/post/136922/)
 - [GTK example](https://habr.com/ru/post/146799/)
 - [gtkmm documentation](http://rus-linux.net/MyLDP/BOOKS/gtkmm/03-basics.html)
+- [gtk tutorial](https://docs.gtk.org/gtk3/getting_started.html)
 
 ### Шпаргалка по командам в Linux
 
@@ -54,7 +55,7 @@ ___
 ## WPF, C# and OOP
 
 - [DataGrid for WPF](https://habr.com/ru/post/270413/)
-- [MVVM simple tutoreal](https://vk.com/away.php?to=https%3A%2F%2Fmetanit.com%2Fsharp%2Fwpf%2F22.2.php&el=snippet)
+- [MVVM simple tutorial](https://vk.com/away.php?to=https%3A%2F%2Fmetanit.com%2Fsharp%2Fwpf%2F22.2.php&el=snippet)
 - [MVVM async](https://vk.com/away.php?to=https%3A%2F%2Fdocs.microsoft.com%2Fru-ru%2Farchive%2Fmsdn-magazine%2F2014%2Fapril%2Fasync-programming-patterns-for-asynchronous-mvvm-applications-commands&el=snippet)
 - [Многопоточность и асинхронные методы](https://vk.com/away.php?to=https%3A%2F%2Fmetanit.com%2Fsharp%2Ftutorial%2F13.7.php)
 - [Еще один MVVM](https://vk.com/away.php?to=https%3A%2F%2Fprofessorweb.ru%2Fmy%2FWPF%2Fdocuments_WPF%2Flevel36%2F36_5.php&el=snippet)
