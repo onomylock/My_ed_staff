@@ -36,6 +36,7 @@ ___
 - [GTK example](https://habr.com/ru/post/146799/)
 - [gtkmm documentation](http://rus-linux.net/MyLDP/BOOKS/gtkmm/03-basics.html)
 - [gtk tutorial](https://docs.gtk.org/gtk3/getting_started.html)
+- [gtkmm 3 doc](https://developer-old.gnome.org/gtkmm-tutorial/3.24/index.html)
 
 ### Шпаргалка по командам в Linux
 
